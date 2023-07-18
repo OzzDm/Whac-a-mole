@@ -1,0 +1,18 @@
+#grid{
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.square{
+    width: 200px;
+    height: 200px;
+    border: solid black 0.1px;
+}
+.mole{
+    /* background-color: blue; */
+    background-image: url('./Assets/Animal.png');
+    background-repeat: no-repeat;
+    background-size:contain;
+    float: left;
+}
