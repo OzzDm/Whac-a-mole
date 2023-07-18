@@ -26,7 +26,7 @@ To play the game locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/whac-a-mole.git
+   git clone [https://github.com/your-username/whac-a-mole.git](https://github.com/OzzDm/Whac-a-mole.git)
    ```
 
 2. Navigate to the project directory:
