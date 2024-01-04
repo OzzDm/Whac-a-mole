@@ -11,7 +11,7 @@
 }
 .mole{
     /* background-color: blue; */
-    background-image: url('./Assets/Animal.png');
+    background-image: url('./Animal.png');
     background-repeat: no-repeat;
     background-size:contain;
     float: left;
